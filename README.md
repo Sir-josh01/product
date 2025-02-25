@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Sir-josh01/product)
+- Live Site URL: [Add live site URL here](https://sir-josh01.github.io/product/)
 
 ## My process
 -I started with the HTML code and layout 
@@ -77,8 +77,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Add your name here](https://https://sir-josh01.github.io/product/)
+- Frontend Mentor - [@josh35823482](https://www.frontendmentor.io/profile/Josh35823482)
 - Twitter - [@Sir_josh01](https://www.twitter.com/Sir_josh01)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
