@@ -77,11 +77,10 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://https://sir-josh01.github.io/product/)
-- Frontend Mentor - [@josh35823482](https://www.frontendmentor.io/profile/Josh35823482)
+- Website - [github-profile](https://https://sir-josh01.github.io/product/)
+- Frontend Mentor - [@sir_josh01](https://www.frontendmentor.io/profile/sir-josh01)
 - Twitter - [@Sir_josh01](https://www.twitter.com/Sir_josh01)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
